@@ -1,1 +1,1 @@
-![alt text]([http://url/to/img.png](https://github.com/bahadirbesirkestane/Bilimsel_Hesap_Makinesi/blob/main/hesap_makinesi.png?raw=true)https://github.com/bahadirbesirkestane/Bilimsel_Hesap_Makinesi/blob/main/hesap_makinesi.png?raw=true)
+![alt text](https://raw.githubusercontent.com/bahadirbesirkestane/Bilimsel_Hesap_Makinesi/main/hesap_makinesi.png)
